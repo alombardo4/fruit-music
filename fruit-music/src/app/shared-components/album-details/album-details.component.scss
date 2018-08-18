@@ -1,0 +1,12 @@
+.album {
+    display: flex;
+    .basic-info {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
+
+.track-list {
+    max-height: 50vh;
+    overflow-y: auto;
+}

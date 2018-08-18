@@ -1,0 +1,17 @@
+.album {
+    margin: 10px;
+
+    p {
+        margin-left: auto;
+        margin-right: auto;
+        word-wrap: break-word;
+        width: 90%;
+    }
+    p.album {
+        font-size: 12px;
+    }
+
+    p.artist {
+        font-size: 10px;
+    }
+}
